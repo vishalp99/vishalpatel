@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/vishalpatel/static/css/main.3d36d607.css",
+    "main.js": "/vishalpatel/static/js/main.751be0a8.js",
+    "index.html": "/vishalpatel/index.html",
+    "main.3d36d607.css.map": "/vishalpatel/static/css/main.3d36d607.css.map",
+    "main.751be0a8.js.map": "/vishalpatel/static/js/main.751be0a8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3d36d607.css",
+    "static/js/main.751be0a8.js"
+  ]
+}

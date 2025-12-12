@@ -65,7 +65,7 @@ const Education = () => {
             </div>
 
             <div className="text-right">
-              <span className="text-sm text-gray-500 block">{`GPA: ${edu.gpa}`}</span>
+              {/* <span className="text-sm text-gray-500 block">{`GPA: ${edu.gpa}`}</span> */}
               <span className="text-sm text-gray-500">{edu.duration}</span>
             </div>
           </motion.div>

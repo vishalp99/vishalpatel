@@ -19,7 +19,7 @@ const About = () => {
 
       {/* Paragraphs with Delay */}
       <p className="text-lg sm:text-xl max-w-5xl mb-6 text-center mx-auto opacity-0 translate-y-4 animate-fadeInUp delay-200">
-        Hi, I'm <b> Vishal Patel </b>, a passionate IT enthusiast with expertise in back-end development, cloud solutions, and cybersecurity, continuously expanding my knowledge in AI and Machine Learning to stay ahead in the ever-evolving tech landscape.
+        Hi, I'm <b>Vishal Patel</b>, an AI and Machine Learning enthusiast specializing in deep learning, computer vision, and reinforcement learning. I build intelligent systems, explore end-to-end ML pipelines, and apply AI to solve real-world problems. While leveraging my experience in cloud, backend engineering, and cybersecurity to deliver robust, production ready solutions.
       </p>
 
       <p className="text-lg sm:text-xl max-w-5xl mb-6 text-center mx-auto opacity-0 translate-y-4 animate-fadeInUp delay-400">

@@ -31,6 +31,54 @@ const Projects = () => {
       <div className="max-h-[60vh] overflow-y-auto px-2 space-y-4">
         {[
           {
+            category: "ai",
+            title: "AI & ML Projects",
+            projects: [
+              {
+                name: "FoodBIT",
+                description:
+                  "An AI-powered food recognition system using TensorFlow.js & Node.js for food image analysis and calorie tracking.",
+                link: "https://github.com/vishalp99/FoodBIT",
+              },
+              {
+                name: "Sentiment Analysis with TextBlob",
+                description:
+                  "A sentiment analysis engine built using TextBlob for polarity, subjectivity scoring, and social media text classification.",
+                link: "https://github.com/vishalp99/AIDI1006_Twitter_Sentiment_ADF",
+              },
+              {
+                name: "ChurnPrediction_NN_and_CNN",
+                description:
+                  "Deep learning project comparing Neural Network (NN) and Convolutional Neural Network (CNN) models to predict telecom customer churn.",
+                link: "https://github.com/vishalp99/ChurnPrediction_NN_and_CNN",
+              },
+              {
+                name: "JetBot Autonomous AI Project",
+                description:
+                  "An NVIDIA JetBot powered mini-robot using deep learning for object detection, obstacle avoidance, and autonomous navigation.",
+                link: "https://github.com/vishalp99/JetBot_Autonomous_Navigation_Collision-Avoidance-Road-Following",
+              },
+              {
+                name: "LunarLander Actor-Critic (Forward View)",
+                description:
+                  "A reinforcement learning implementation of the Actor-Critic (Forward View) algorithm applied to LunarLander-v2/v3 using Gymnasium, demonstrating policy evaluation and improvement.",
+                link: "https://github.com/vishalp99/LunarLander-ActorCritic-ForwardView",
+              },
+              {
+                name: "Modified BlackJack — Monte Carlo & SARSA",
+                description:
+                  "Implements Monte Carlo Control and Sarsa(λ) using forward-view updates for a custom BlackJack environment built in Python.",
+                link: "https://github.com/vishalp99/Modified-Black-Jack_MonteCarlo_and_SARSA",
+              },
+              {
+                name: "MNIST Digit Classifier (PyTorch)",
+                description:
+                  "A PyTorch-based neural network trained on the MNIST dataset for handwritten digit recognition, including model design, training, and evaluation.",
+                link: "https://github.com/vishalp99/MNIST-Digit-Classifier-PyTorch",
+              },
+            ],
+          },
+          {
             category: "development",
             title: "Development Projects",
             projects: [
@@ -91,18 +139,6 @@ const Projects = () => {
                 description:
                   "As part of the course, utilized Autopsy and ProDiscover tools for digital forensics analysis to examine and extract evidence from disk images. Additionally, performed steganography tasks to hide and uncover data within files, enhancing my skills in both digital forensics and data concealment techniques.",
                 link: "https://github.com/yourusername/LAMP-Security",
-              },
-            ],
-          },
-          {
-            category: "ai",
-            title: "AI & ML Projects",
-            projects: [
-              {
-                name: "FoodBIT",
-                description:
-                  "An AI-powered food recognition system using TensorFlow.js & Node.js for food image analysis and calorie tracking.",
-                link: "https://github.com/vishalp99/FoodBIT",
               },
             ],
           },

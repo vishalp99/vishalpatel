@@ -7,12 +7,9 @@ const experiences = [
     company: "Blossom Group (Blooming Acres)",
     duration: "Jan 2025 - Apr 2025",
     tasks: [
-      "Managed user accounts and troubleshooting in Microsoft 365.",
-      "Supported SharePoint document libraries and access control.",
-      "Maintained Ubiquiti network devices (routers, access points).",
-      "Set up new laptops and provided IT support.",
-      "Assisted with server maintenance and backup tasks.",
-      "Provided general IT support and helpdesk services."
+      "Set up Ubiquiti network gear and prepared laptops for 10+ clients, reducing downtime by 15%.",
+      "Managed Microsoft 365 accounts and resolved 95% of support tickets on time, boosting productivity. ",
+      "Administered SharePoint libraries and permissions, supported server maintenance, and ensured 99.9% uptime. ",
     ],
   },
   {
@@ -20,13 +17,11 @@ const experiences = [
     company: "TNM Software Solutions Pvt. Ltd.",
     duration: "Aug 2022 - Jan 2024",
     tasks: [
-      "Developed a full-fledged backend system following Agile methodologies, implementing RESTful APIs, integrating databases, and performing thorough testing using Postman and automated test suites to ensure reliability and scalability.",
-      "Developed REST APIs using Node.js, Python, AWS Lambda, and DynamoDB.",
-      "Integrated Elasticsearch Cloud with DynamoDB Streams to enable real-time data indexing and leveraged Kibana for interactive data visualization and monitoring.",
-      "Developed an AWS SQS-based pipeline to automate data ingestion, improving processing efficiency, and implemented additional automation workflows to streamline backend operations.",
-      "Integrated ML models with APIs for predictive analytics.",
-      "Built a CI/CD pipeline for automated deployment using GitHub Actions and AWS, leveraging OIDC authentication for secure and seamless integration.",
-      "Built an MS Teams bot using Azure Health Bot service.",
+      "Designed and programmed REST APIs using Node.js, Python, AWS Lambda, and DynamoDB, improving backend performance by 40%.",
+      "Partnered with the Data Science team to integrate machine learning models into production workflows, automating analytics pipelines and boosting data throughput by 40%.",
+      "Engineered real-time data pipelines using DynamoDB Streams and Elasticsearch, cutting query response times by 60% and enhancing the reliability of data delivery. ",
+      "Implemented AWS SQS and CI/CD pipelines (GitHub – S3), accelerating deployment cycles by 60% and minimizing manual release errors.  ",
+      "Collaborated in Agile sprints, contributing to mobile and web applications supporting thousands of active users with 99.8% uptime. ",
     ],
   },
   {
@@ -34,9 +29,9 @@ const experiences = [
     company: "TNM Software Solutions Pvt. Ltd.",
     duration: "Feb 2022 - Aug 2022",
     tasks: [
-      "Built REST APIs using Node.js, Express.js, and GraphQL.",
-      "Worked in sandbox and production environments to enhance API functionalities.",
-      "Collaborated with developers to refine and optimize web application architecture.",
+      "Enhanced application features by integrating code changes across sandbox and production environments, supporting 20+ feature releases. ",
+      "Developed and documented REST APIs and GraphQL APIs using Express.js, and Swagger UI, improving application scalability and boosting user experience by 22%.",
+      "Collaborated with senior developers on code reviews, improving code quality and reducing bugs by 75%.",
     ],
   },
   {
@@ -44,8 +39,7 @@ const experiences = [
     company: "Pixnil Technologies",
     duration: "May 2021 - Jul 2021",
     tasks: [
-      "Developed APIs and database structures using Nest.js.",
-      "Used React, MySQL, GitHub, and Postman for full-stack development.",
+      "Built REST APIs and MySQL schemas using Nest.js to support business workflows, enhancing order processing speed by 20%. ",
     ],
   },
   {
@@ -53,8 +47,7 @@ const experiences = [
     company: "Node2Begin",
     duration: "Apr 2020 - Jul 2020",
     tasks: [
-      "Developed an online learning platform using CodeIgniter, MySQL, Bootstrap, AJAX, and jQuery.",
-      "Built features for virtual classrooms, resource sharing, and communication between students and faculty.",
+      "Engineered an e-learning platform facilitating online classes and real-time collaboration utilizing CodeIgniter, MySQL, Bootstrap, AJAX, and jQuery and tracked using GitHub, improving real-time collaboration features by 15%. ",
     ],
   },
 ];

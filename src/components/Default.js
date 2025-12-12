@@ -8,7 +8,7 @@ const Default = () => {
       <div className="text-center">
         <h2 className="text-3xl font-bold mb-4">Welcome to My Portfolio</h2>
         <p className="text-lg sm:text-xl max-w-5xl mb-6 text-center mx-auto">
-        I am a versatile professional with expertise in development, cybersecurity, cloud solutions, and AI, offering adaptability and a proven ability to drive innovative solutions across these domains.
+              I am an AI and Data Science enthusiast with expertise in machine learning, deep learning, and data-driven solutions. I specialize in data cleaning, preprocessing, and building predictive models while leveraging my skills in cloud solutions, backend development, and cybersecurity to deliver innovative and impactful results.
         </p>
       </div>
 
